@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-list-and-cart-html-css-and-js-DF2D5bjl6q)
+- Live Site URL: [Github Pages](https://dani-ak16.github.io/product-list-with-cart-main/)
 
 ## My process
 
